@@ -1,11 +1,6 @@
 
 ![images](https://github.com/toastyThink/toastyThink/assets/55202537/691c35ca-1df3-415f-8820-f823446e74e3)
 
-
-Hey I'm Brendan, an HR professional turned software engineer! Thanks for stopping by! You'll find all types of projects here, big and small! I love building things that help make life better for people. If you have any projects you need help with please feel free reach out to me on Github! 
-
-Sure, here's a sample bio for a software engineer's GitHub profile:
-
 ```
 👋 Hello, World!
 
